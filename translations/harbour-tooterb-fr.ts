@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="fr">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="fr">
 <context>
     <name>API</name>
     <message>
@@ -107,12 +105,12 @@
         <translation>Instance</translation>
     </message>
     <message>
-        <source>Mastodon is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust — whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the social network seamlessly.</source>
-        <translation>Mastodon est un réseau libre et open source : une alternative décentralisée aux plateformes commerciales, afin d’éviter le contrôle monopolistique de vos communications par une entreprise. Choisissez un serveur dans lequel vous avez confiance - quelque que soit votre choix vous pourrez interagir avec tous les utilisateurs du réseau Mastodon. Tout le monde peut monter sa propre instance Mastodon et ainsi contribuer à la croissance du réseau.</translation>
+        <source>Enter a valid Mastodon instance URL</source>
+        <translation>Saisissez l’URL d’une instance Mastodon</translation>
     </message>
     <message>
-        <source>Enter a valid Mastodon instance URL (will open a web browser for Authentication)</source>
-        <translation type="unfinished"></translation>
+        <source>Mastodon is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust — whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the social network seamlessly.</source>
+        <translation>Mastodon est un réseau libre et open source : une alternative décentralisée aux plateformes commerciales, afin d’éviter le contrôle monopolistique de vos communications par une entreprise. Choisissez un serveur dans lequel vous avez confiance - quelque que soit votre choix vous pourrez interagir avec tous les utilisateurs du réseau Mastodon. Tout le monde peut monter sa propre instance Mastodon et ainsi contribuer à la croissance du réseau.</translation>
     </message>
 </context>
 <context>
@@ -229,7 +227,7 @@
     <name>ProfilePage</name>
     <message>
         <source>About</source>
-        <extracomment>If there&apos;s no good translation for &quot;About&quot;, use &quot;Details&quot; (in details about profile).</extracomment>
+        <extracomment>If there's no good translation for &quot;About&quot;, use &quot;Details&quot; (in details about profile).</extracomment>
         <translation>Détails</translation>
     </message>
     <message>
@@ -364,7 +362,7 @@
     </message>
     <message>
         <source>Use</source>
-        <extracomment>Full sentence for translation: &quot;Use Transifex to help with app translation to your language.&quot; - The word Transifex is a link and doesn&apos;t need translation.</extracomment>
+        <extracomment>Full sentence for translation: &quot;Use Transifex to help with app translation to your language.&quot; - The word Transifex is a link and doesn't need translation.</extracomment>
         <translation>Utiliser</translation>
     </message>
     <message>
