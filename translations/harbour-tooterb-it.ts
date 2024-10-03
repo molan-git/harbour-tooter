@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.1" language="it">
+<?xml version="1.0" ?><!DOCTYPE TS><TS version="2.1" language="it">
 <context>
     <name>API</name>
     <message>
@@ -107,12 +105,12 @@
         <translation>Istanza</translation>
     </message>
     <message>
-        <source>Mastodon is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust — whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the social network seamlessly.</source>
-        <translation>Mastodon è un servizio di rete sociale in software libero, costituito in una federazione d&apos;istanze. Mastodon fa parte del più ampio Fediverso, permettendo ai suoi utenti di interagire anche con utenti su diverse piattaforme aperte che supportano lo stesso protocollo.</translation>
+        <source>Enter a valid Mastodon instance URL</source>
+        <translation>Inserire URL di una istanza Mastodon valida</translation>
     </message>
     <message>
-        <source>Enter a valid Mastodon instance URL (will open a web browser for Authentication)</source>
-        <translation type="unfinished"></translation>
+        <source>Mastodon is a free, open-source social network. A decentralized alternative to commercial platforms, it avoids the risks of a single company monopolizing your communication. Pick a server that you trust — whichever you choose, you can interact with everyone else. Anyone can run their own Mastodon instance and participate in the social network seamlessly.</source>
+        <translation>Mastodon è un servizio di rete sociale in software libero, costituito in una federazione d&apos;istanze. Mastodon fa parte del più ampio Fediverso, permettendo ai suoi utenti di interagire anche con utenti su diverse piattaforme aperte che supportano lo stesso protocollo.</translation>
     </message>
 </context>
 <context>
@@ -229,7 +227,7 @@
     <name>ProfilePage</name>
     <message>
         <source>About</source>
-        <extracomment>If there&apos;s no good translation for &quot;About&quot;, use &quot;Details&quot; (in details about profile).</extracomment>
+        <extracomment>If there's no good translation for &quot;About&quot;, use &quot;Details&quot; (in details about profile).</extracomment>
         <translation>Dettagli</translation>
     </message>
     <message>
@@ -364,7 +362,7 @@
     </message>
     <message>
         <source>Use</source>
-        <extracomment>Full sentence for translation: &quot;Use Transifex to help with app translation to your language.&quot; - The word Transifex is a link and doesn&apos;t need translation.</extracomment>
+        <extracomment>Full sentence for translation: &quot;Use Transifex to help with app translation to your language.&quot; - The word Transifex is a link and doesn't need translation.</extracomment>
         <translation>Utilizzare</translation>
     </message>
     <message>
