@@ -386,11 +386,11 @@
     </message>
     <message>
         <source>Unfavorite</source>
-        <translation type="unfinished"/>
+        <translation>Usuń z ulubionych</translation>
     </message>
     <message>
         <source>Favorite</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj do ulubionych</translation>
     </message>
     <message>
         <source>Mention</source>
