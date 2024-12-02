@@ -62,7 +62,7 @@
     </message>
     <message>
         <source>Hide Reply</source>
-        <translation type="unfinished"/>
+        <translation>Ukryj odpowiedź</translation>
     </message>
     <message>
         <source>Open in Browser</source>
