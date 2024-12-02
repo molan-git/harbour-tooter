@@ -406,7 +406,7 @@
     </message>
     <message>
         <source>Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Zakładka</translation>
     </message>
 </context>
 </TS>
