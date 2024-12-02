@@ -301,15 +301,15 @@
     </message>
     <message>
         <source>Disable this option if you want to preserve your data connection</source>
-        <translation type="unfinished"/>
+        <translation>Wyłącz tę opcję jeśli chcesz ograniczyć użycie danych</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Remove Account</source>
-        <translation type="unfinished"/>
+        <translation>Usuń konto</translation>
     </message>
     <message>
         <source>Add Account</source>
