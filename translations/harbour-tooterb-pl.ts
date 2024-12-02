@@ -350,7 +350,7 @@
     </message>
     <message>
         <source>Chinese translation</source>
-        <translation type="unfinished"/>
+        <translation>Tłumaczenie chińskie</translation>
     </message>
     <message>
         <source>Dutch translation</source>
