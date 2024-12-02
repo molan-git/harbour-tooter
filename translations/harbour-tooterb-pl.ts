@@ -378,11 +378,11 @@
     <name>VisualContainer</name>
     <message>
         <source>Unboost</source>
-        <translation type="unfinished"/>
+        <translation>Usuń podbicie</translation>
     </message>
     <message>
         <source>Boost</source>
-        <translation type="unfinished"/>
+        <translation>Podbij</translation>
     </message>
     <message>
         <source>Unfavorite</source>
