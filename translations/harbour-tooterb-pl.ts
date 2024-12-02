@@ -58,7 +58,7 @@
     <message>
         <source>Reply</source>
         <extracomment>&quot;Reply&quot; will show the Toot text entry Panel. &quot;Hide Reply&quot; closes it. Alternative: Use &quot;Close Reply&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Odpowiedz</translation>
     </message>
     <message>
         <source>Hide Reply</source>
