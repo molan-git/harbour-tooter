@@ -220,7 +220,7 @@
     </message>
     <message>
         <source>Group</source>
-        <translation type="unfinished"/>
+        <translation>Grupa</translation>
     </message>
 </context>
 <context>
