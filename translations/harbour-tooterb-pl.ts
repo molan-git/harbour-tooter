@@ -233,7 +233,7 @@
     <message>
         <source>Followers</source>
         <extracomment>Will show as: &quot;35 Followers&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>obserwujących</translation>
     </message>
     <message>
         <source>Following</source>
