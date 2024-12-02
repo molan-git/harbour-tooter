@@ -243,7 +243,7 @@
     <message>
         <source>Statuses</source>
         <extracomment>Will show as: &quot;115 Statuses&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>statusów</translation>
     </message>
     <message>
         <source>Mention</source>
