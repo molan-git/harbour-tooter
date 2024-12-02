@@ -102,7 +102,7 @@
     </message>
     <message>
         <source>Instance</source>
-        <translation type="unfinished"/>
+        <translation>Instancja</translation>
     </message>
     <message>
         <source>Enter a valid Mastodon instance URL</source>
