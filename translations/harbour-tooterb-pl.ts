@@ -163,7 +163,7 @@
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"/>
+        <translation>Film</translation>
     </message>
     <message>
         <source>PDF document</source>
