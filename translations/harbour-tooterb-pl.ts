@@ -45,7 +45,7 @@
     </message>
     <message>
         <source>Followers-only</source>
-        <translation type="unfinished"/>
+        <translation>Tylko dla obserwujących</translation>
     </message>
     <message>
         <source>Direct</source>
