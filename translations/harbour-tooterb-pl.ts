@@ -216,7 +216,7 @@
     </message>
     <message>
         <source>Follows you</source>
-        <translation type="unfinished"/>
+        <translation>Obserwuje Cię</translation>
     </message>
     <message>
         <source>Group</source>
