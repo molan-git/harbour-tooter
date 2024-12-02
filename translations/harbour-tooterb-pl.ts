@@ -66,7 +66,7 @@
     </message>
     <message>
         <source>Open in Browser</source>
-        <translation type="unfinished"/>
+        <translation>Otwórz w przeglądarce</translation>
     </message>
 </context>
 <context>
