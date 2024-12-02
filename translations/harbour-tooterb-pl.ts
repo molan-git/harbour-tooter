@@ -37,7 +37,7 @@
     </message>
     <message>
         <source>Public</source>
-        <translation type="unfinished"/>
+        <translation>Publiczny</translation>
     </message>
     <message>
         <source>Unlisted</source>
