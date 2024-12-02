@@ -371,7 +371,7 @@
     </message>
     <message>
         <source>Development</source>
-        <translation type="unfinished"/>
+        <translation>Programowanie</translation>
     </message>
 </context>
 <context>
