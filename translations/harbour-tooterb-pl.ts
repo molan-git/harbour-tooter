@@ -41,7 +41,7 @@
     </message>
     <message>
         <source>Unlisted</source>
-        <translation type="unfinished"/>
+        <translation>Publiczny</translation>
     </message>
     <message>
         <source>Followers-only</source>
