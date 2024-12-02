@@ -342,7 +342,7 @@
     </message>
     <message>
         <source>Development and translations</source>
-        <translation type="unfinished"/>
+        <translation>Programowanie i tłumaczenia</translation>
     </message>
     <message>
         <source>Occitan &amp; French translation</source>
