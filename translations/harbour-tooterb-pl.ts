@@ -28,7 +28,7 @@
     <message>
         <source>Write your warning here</source>
         <extracomment>placeholderText in Toot content warning panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wpisz Twoje ostrzeżenie</translation>
     </message>
     <message>
         <source>What&apos;s on your mind?</source>
