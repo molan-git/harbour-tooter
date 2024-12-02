@@ -277,12 +277,12 @@
     <message>
         <source>Unblock</source>
         <extracomment>Is a button. Keep it as short as possible.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cofnij blokadę</translation>
     </message>
     <message>
         <source>Block</source>
         <extracomment>Is a button. Keep it as short as possible.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zablokuj</translation>
     </message>
 </context>
 <context>
