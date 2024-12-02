@@ -313,7 +313,7 @@
     </message>
     <message>
         <source>Add Account</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj konto</translation>
     </message>
     <message>
         <source>Deauthorize this app from using your account and remove account data from phone</source>
