@@ -267,7 +267,7 @@
     <message>
         <source>Unmute</source>
         <extracomment>Is a button. Keep it as short as possible.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Cofnij wyciszenie</translation>
     </message>
     <message>
         <source>Mute</source>
