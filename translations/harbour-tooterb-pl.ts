@@ -167,7 +167,7 @@
     </message>
     <message>
         <source>PDF document</source>
-        <translation type="unfinished"/>
+        <translation>Dokument PDF</translation>
     </message>
 </context>
 <context>
