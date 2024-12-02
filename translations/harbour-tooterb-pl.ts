@@ -159,7 +159,7 @@
     <name>MediaItem</name>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Obraz</translation>
     </message>
     <message>
         <source>Video</source>
