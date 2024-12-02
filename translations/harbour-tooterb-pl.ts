@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>Direct</source>
-        <translation type="unfinished"/>
+        <translation>Bezpośredni</translation>
     </message>
     <message>
         <source>Toot sent!</source>
