@@ -247,7 +247,7 @@
     </message>
     <message>
         <source>Mention</source>
-        <translation type="unfinished"/>
+        <translation>Wzmianka</translation>
     </message>
     <message>
         <source>Unfollow</source>
