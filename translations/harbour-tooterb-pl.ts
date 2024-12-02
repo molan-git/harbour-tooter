@@ -297,7 +297,7 @@
     </message>
     <message>
         <source>Load Images in Toots</source>
-        <translation type="unfinished"/>
+        <translation>Ładuj obrazy w Tootach</translation>
     </message>
     <message>
         <source>Disable this option if you want to preserve your data connection</source>
