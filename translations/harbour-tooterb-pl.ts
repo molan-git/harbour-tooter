@@ -33,7 +33,7 @@
     <message>
         <source>What&apos;s on your mind?</source>
         <extracomment>placeholderText in Toot text panel</extracomment>
-        <translation type="unfinished"/>
+        <translation>Co masz na myśli?</translation>
     </message>
     <message>
         <source>Public</source>
