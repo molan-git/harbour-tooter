@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>Visual identity</source>
-        <translation type="unfinished"/>
+        <translation>Identyfikacja wizualna</translation>
     </message>
     <message>
         <source>Development and translations</source>
