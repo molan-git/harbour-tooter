@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>Deauthorize this app from using your account and remove account data from phone</source>
-        <translation type="unfinished"/>
+        <translation>Odłącz aplikację od swojego konta i usuń dane konta z telefonu</translation>
     </message>
     <message>
         <source>Authorize this app to access your Mastodon account</source>
