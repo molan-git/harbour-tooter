@@ -330,7 +330,7 @@
     <message>
         <source>Credits</source>
         <extracomment>Translation alternative: &quot;Development&quot;</extracomment>
-        <translation type="unfinished"/>
+        <translation>Zasługi</translation>
     </message>
     <message>
         <source>UI/UX design and development</source>
