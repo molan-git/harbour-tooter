@@ -257,7 +257,7 @@
     <message>
         <source>Requested</source>
         <extracomment>Is a button. Keep it as short as possible.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Wymagany</translation>
     </message>
     <message>
         <source>Follow</source>
@@ -293,7 +293,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opcje</translation>
     </message>
     <message>
         <source>Load Images in Toots</source>
