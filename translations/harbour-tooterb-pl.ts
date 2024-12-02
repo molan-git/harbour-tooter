@@ -358,7 +358,7 @@
     </message>
     <message>
         <source>Spanish translation</source>
-        <translation type="unfinished"/>
+        <translation>Tłumaczenie hiszpańskie</translation>
     </message>
     <message>
         <source>Use</source>
