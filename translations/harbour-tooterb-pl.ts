@@ -53,7 +53,7 @@
     </message>
     <message>
         <source>Toot sent!</source>
-        <translation type="unfinished"/>
+        <translation>Wysłany!</translation>
     </message>
     <message>
         <source>Reply</source>
