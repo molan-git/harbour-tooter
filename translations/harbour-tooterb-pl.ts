@@ -363,7 +363,7 @@
     <message>
         <source>Use</source>
         <extracomment>Full sentence for translation: &quot;Use Transifex to help with app translation to your language.&quot; - The word Transifex is a link and doesn't need translation.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Użyj</translation>
     </message>
     <message>
         <source>to help with app translation to your language.</source>
