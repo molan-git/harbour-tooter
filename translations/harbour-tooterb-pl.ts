@@ -354,7 +354,7 @@
     </message>
     <message>
         <source>Dutch translation</source>
-        <translation type="unfinished"/>
+        <translation>Tłumaczenie duńskie</translation>
     </message>
     <message>
         <source>Spanish translation</source>
