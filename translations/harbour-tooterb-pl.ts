@@ -321,11 +321,11 @@
     </message>
     <message>
         <source>Authorize this app to access your Mastodon account</source>
-        <translation type="unfinished"/>
+        <translation>Autoryzuj dostęp tej aplikacji do Twojego konta Mastodon</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Przetłumacz</translation>
     </message>
     <message>
         <source>Credits</source>
