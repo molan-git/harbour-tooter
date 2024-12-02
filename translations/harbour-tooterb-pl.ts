@@ -334,7 +334,7 @@
     </message>
     <message>
         <source>UI/UX design and development</source>
-        <translation type="unfinished"/>
+        <translation>Projektowanie UI/UX i programowanie</translation>
     </message>
     <message>
         <source>Visual identity</source>
