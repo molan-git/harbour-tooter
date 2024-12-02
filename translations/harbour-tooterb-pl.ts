@@ -152,7 +152,7 @@
     <name>MediaFullScreen</name>
     <message>
         <source>Error loading</source>
-        <translation type="unfinished"/>
+        <translation>Błąd ładowania</translation>
     </message>
 </context>
 <context>
