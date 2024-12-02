@@ -394,15 +394,15 @@
     </message>
     <message>
         <source>Mention</source>
-        <translation type="unfinished"/>
+        <translation>Wzmianka</translation>
     </message>
     <message>
         <source>Conversation</source>
-        <translation type="unfinished"/>
+        <translation>Rozmowa</translation>
     </message>
     <message>
         <source>Remove Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Usuń zakładkę</translation>
     </message>
     <message>
         <source>Bookmark</source>
