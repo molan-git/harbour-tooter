@@ -262,7 +262,7 @@
     <message>
         <source>Follow</source>
         <extracomment>Is a button. Keep it as short as possible.</extracomment>
-        <translation type="unfinished"/>
+        <translation>Obserwuj</translation>
     </message>
     <message>
         <source>Unmute</source>
