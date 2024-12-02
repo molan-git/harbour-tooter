@@ -367,7 +367,7 @@
     </message>
     <message>
         <source>to help with app translation to your language.</source>
-        <translation type="unfinished"/>
+        <translation>aby pomóc w tłumaczeniu aplikacji na Twój język</translation>
     </message>
     <message>
         <source>Development</source>
