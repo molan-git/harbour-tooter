@@ -346,7 +346,7 @@
     </message>
     <message>
         <source>Occitan &amp; French translation</source>
-        <translation>Tłumaczenie kreolskie i francuskie</translation>
+        <translation>Tłumaczenie oksytańskie i francuskie</translation>
     </message>
     <message>
         <source>Chinese translation</source>
